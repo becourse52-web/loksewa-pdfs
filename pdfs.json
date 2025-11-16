@@ -2,32 +2,7 @@
   "version": 1,
   "lastUpdated": "2025-11-16",
   "syllabus": [
-    {
-      "id": "gk_engineer_electrical",
-      "name": "General Knowledge Electrical Engineer Syllabus",
-      "category": "GK",
-      "subCategory": "",
-      "field": "Nepal Engineering",
-      "level": "7",
-      "year": "",
-      "url": "https://raw.githubusercontent.com/becourse52-web/loksewa-pdfs/main/syllabus/gk/gk_basic_2024.pdf",
-      "size": "306 KB",
-      "lastUpdated": 1705305600000,
-      "type": "syllabus"
-    },
-    {
-      "id": "iq_pattern_2024",
-      "name": "IQ Test Pattern and Syllabus",
-      "category": "IQ",
-      "subCategory": "",
-      "field": "General",
-      "level": "All Levels",
-      "year": "",
-      "url": "https://raw.githubusercontent.com/becourse52-web/loksewa-pdfs/main/syllabus/iq/iq_pattern_2024.pdf",
-      "size": "1.8 MB",
-      "lastUpdated": 1705305600000,
-      "type": "syllabus"
-    },
+    
     {
       "id": "psc_officer_2025",
       "name": "Electrical Engineer Level - 7 ",
@@ -41,34 +16,7 @@
       "lastUpdated": 1705305600000,
       "type": "syllabus"
     },
-    {
-      "id": "ppsc_province1_officer",
-      "name": "Province 1 Officer Level Syllabus",
-      "category": "PPSC",
-      "subCategory": "Province 1",
-      "field": "Administration",
-      "level": "Officer",
-      "year": "",
-      "url": "https://raw.githubusercontent.com/becourse52-web/loksewa-pdfs/main/syllabus/ppsc/province1/officer_2024.pdf",
-      "size": "2.1 MB",
-      "lastUpdated": 1705305600000,
-      "type": "syllabus"
-    },
-    {
-      "id": "nea_engineer_2024",
-      "name": "NEA Engineer Syllabus 2024",
-      "category": "NEA",
-      "subCategory": "",
-      "field": "Engineering",
-      "level": "Engineer",
-      "year": "",
-      "url": "https://raw.githubusercontent.com/becourse52-web/loksewa-pdfs/main/syllabus/nea/engineer_2024.pdf",
-      "size": "4.5 MB",
-      "lastUpdated": 1705305600000,
-      "type": "syllabus"
-    },
-
-
+  
     {
       "id": "gk_general_electrical_engineering",
       "name": "जनरल इलेक्ट्रिकल इञ्जिनियरिङ्ग , रा०प० तृतीय, प्रथम पत्र",
@@ -84,7 +32,7 @@
     },
     {
       "id": "nepalarmy_adhikrit_open",
-      "name": "adhikrit cader open exam syllabus",
+      "name": "अधिकृत क्याडेट, खुल्ला",
       "category": "Nepal Army",
       "subCategory": "Non-Technical",
       "field": "Administration",
@@ -257,34 +205,6 @@
   ],
 
   "oldquestions": [
-    {
-      "id": "gk_2023",
-      "name": "GK Questions 2023",
-      "category": "GK",
-      "subCategory": "",
-      "field": "General",
-      "level": "All",
-      "year": "2023",
-      "url": "https://raw.githubusercontent.com/becourse52-web/loksewa-pdfs/main/oldquestions/gk/2023/gk_2023.pdf",
-      "size": "1.5 MB",
-      "lastUpdated": 1705305600000,
-      "type": "oldquestion"
-    },
-    {
-      "id": "psc_officer_2022",
-      "name": "PSC Officer Level 2022",
-      "category": "PSC",
-      "subCategory": "",
-      "field": "Administration",
-      "level": "Officer",
-      "year": "2022",
-      "url": "https://raw.githubusercontent.com/becourse52-web/loksewa-pdfs/main/oldquestions/psc/2022/officer_2022.pdf",
-      "size": "2.1 MB",
-      "lastUpdated": 1705305600000,
-      "type": "oldquestion"
-    },
-
-
     {
       "id": "psc_mofa_2071_2080",
       "name": "MOFA (Extra I and II) Old Questions-2071 to 2080",
