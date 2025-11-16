@@ -68,7 +68,6 @@
       "type": "syllabus"
     },
 
-    /* ---------- NEW SYLLABUS ITEMS BELOW ---------- */
 
     {
       "id": "gk_general_electrical_engineering",
@@ -285,7 +284,6 @@
       "type": "oldquestion"
     },
 
-    /* ---------- NEW OLD QUESTION ITEM ---------- */
 
     {
       "id": "psc_mofa_2071_2080",
